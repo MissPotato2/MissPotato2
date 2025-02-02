@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**MissPotato2/MissPotato2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **MissPotato2**, a very shy girl who has just started this journey of coding.  
 
-Here are some ideas to get you started:
+### What else?  
+I don't have much to say about myself, but here are a few things:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **C programming**.  
+- 🔭 I want to create **fun and original projects**.  
+- 🎨 Hopefully, in the future, I'll be able to use my **creativity** to contribute to cool stuff.  
+- ⏳ My **stamina and patience** are... not the best, especially when I'm not **SO** interested. (I'm working on it ...)  
+
+**Please don't contact me, thx!** 
+
+02/2025, MissPotato2
